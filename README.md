@@ -81,6 +81,10 @@ Implement better logistics and sizing standards.
 
 Improve customer satisfaction by addressing top return reasons.
 
+✨ Contributor
+
+Kshitij Chandel
+
 
 
 
